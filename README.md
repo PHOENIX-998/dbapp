@@ -1,1 +1,2 @@
-hi
+Customer table created.
+Dynamic memory allocation ongoing...
